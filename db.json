@@ -1,0 +1,116 @@
+{
+  "signUpUser": [
+    {
+      "fullname": "ok",
+      "email": "",
+      "password": "",
+      "id": 1
+    },
+    {
+      "fullname": "FAZAL",
+      "email": "ADMIN@mail.com",
+      "password": "ADMIN",
+      "id": 2
+    },
+    {
+      "fullname": "FAZAL",
+      "email": "ADMIN@mail.com",
+      "password": "ADMIN",
+      "id": 3
+    },
+    {
+      "fullname": "FAZAL",
+      "email": "ADMIN@mail.com",
+      "password": "ADMIN",
+      "id": 4
+    },
+    {
+      "fullname": "FAZAL",
+      "email": "ADMIN@mail.com",
+      "password": "ADMIN",
+      "id": 5
+    },
+    {
+      "fullname": "FAZAL",
+      "email": "ADMIN@mail.com",
+      "password": "ADMIN",
+      "id": 6
+    },
+    {
+      "fullname": "FAZAL",
+      "email": "ADMIN@mail.com",
+      "password": "ADMIN",
+      "id": 7
+    },
+    {
+      "fullname": "FAZAL",
+      "email": "ADMIN@mail.com",
+      "password": "ADMIN",
+      "id": 8
+    },
+    {
+      "fullname": "FAZAL",
+      "email": "ADMIN@mail.com",
+      "password": "ADMIN",
+      "id": 9
+    },
+    {
+      "fullname": "FAZAL",
+      "email": "ADMIN@mail.com",
+      "password": "ADMIN",
+      "id": 10
+    },
+    {
+      "fullname": "FAZAL",
+      "email": "ADMIN@mail.com",
+      "password": "ADMIN",
+      "id": 11
+    },
+    {
+      "fullname": "FAZAL",
+      "email": "ADMIN@mail.com",
+      "password": "ADMIN",
+      "id": 12
+    },
+    {
+      "fullname": "FAZAL",
+      "email": "ADMIN@mail.com",
+      "password": "ADMIN",
+      "id": 13
+    },
+    {
+      "fullname": "FAZAL",
+      "email": "ADMIN@mail.com",
+      "password": "ADMIN",
+      "id": 14
+    },
+    {
+      "fullname": "FAZAL",
+      "email": "ADMIN@mail.com",
+      "password": "ADMIN",
+      "id": 15
+    },
+    {
+      "fullname": "FAZAL",
+      "email": "ADMIN@mail.com",
+      "password": "ADMIN",
+      "id": 16
+    },
+    {
+      "fullname": "FAZAL01",
+      "email": "ADMIN@mail.com",
+      "password": "ADMIN",
+      "id": 17
+    },
+    {
+      "fullname": "FAZAL",
+      "email": "ADMIN@mail.com",
+      "password": "ADMIN",
+      "id": 18
+    }
+  ],
+  "loginUser": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
