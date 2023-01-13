@@ -5,8 +5,8 @@
             <form [formGroup]="loginForm" (ngSubmit)="login()">
                 <div class="mb-3 form-group">
                   <label for="exampleInputEmail1" class="form-label">Email address</label>
-                  <input type="email" class="form-control" id="exampleInputEmail1">
-                  <span *ngIf="email && email.invalid && email.touched">Required Email</span>
+                  <input type="email" class="form-control" id="exampleInputEmail1" formControlName="email" value="">
+                  <!-- <span *ngIf="email && email.invalid && email.touched">Required Email</span> -->
                   <!-- <div class="text-danger" *ngIf="loginForm.controls['email'].dirty && loginForm.hasError('required','email')">*required Email</div> -->
 
                   <!-- <div *ngIf="loginForm.controls['email'].invalid && (loginForm.controls['email'].dirty || loginForm.controls['email'].touched)" class="alert alert-danger">
@@ -17,10 +17,10 @@
                 </div>
                 <div class="mb-3 form-group">
                   <label for="exampleInputPassword1" class="form-label">Password</label>
-                  <input type="password" class="form-control" id="exampleInputPassword1">
-                  <div class="text-primary" *ngIf="loginForm.controls['password'].dirty && loginForm.hasError('required','password')">*required password</div>
+                  <input type="password" class="form-control" formControlName="password" id="exampleInputPassword1">
+                  <!-- <div class="text-primary" *ngIf="loginForm.controls['password'].dirty && loginForm.hasError('required','password')">*required password</div> -->
                 </div>
-                <button type="submit" class="btn btn-primary" [disabled]="loginForm.invalid">Login</button>
+                <button type="submit" class="btn btn-primary" >Login</button>
               </form>
         </div>
     </div>
